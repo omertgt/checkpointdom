@@ -1,0 +1,13 @@
+img {
+    width: 200px !important;
+    height: 200px !important;
+}
+#parent {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.liked {
+    color: red;
+}
